@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'static#index'
   namespace :v1 do
     get 'greetings/index'
   end
