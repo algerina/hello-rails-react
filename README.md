@@ -1,15 +1,15 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-###HELLO RAILS REACT
+#HELLO RAILS REACT
 This project is a basic set up of a Rails project to use React and Redux created with the purpose of learnig how to add React and Redux to Rails.
 
-###Built With
+##Built With
 Ruby, Javascript
 Ruby on Rails, React, Redux
 
 
-###Getting Started
+##Getting Started
 This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
 To get a local copy up and running follow these simple example steps.
@@ -31,7 +31,7 @@ Once you have installed them, you need to use the following command to clone the
 
 git clone https://github.com/algerina/hello-rails-react.git
 
-###Database creation
+Database creation
 Next, use this command to create the databases: rake db:create
 
 Use this command to run the migrations if necesessary: rails db:migrate
@@ -58,13 +58,21 @@ rails s
 - GitHub: [@Algerina](https://github.com/Algerina)
 - LinkedIn: [Amel Khiri](https://linkedin.com/in/amel-khiri-qahwadji-37a550135)
 
-handshake Contributing
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
 
-Show your support
-Give a star if you like this project!
+## Show your support
 
-memo License
-This project is MIT licensed.
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
